@@ -1,2 +1,2 @@
-# Hack-Hiest
+# Hack-Heist
 Hackathon
